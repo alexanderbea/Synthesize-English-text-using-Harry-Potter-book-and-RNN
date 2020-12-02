@@ -6,3 +6,7 @@ I have used the optimization AdaGrad as variation of SGD and the code contains t
 - <b>Back-propagation</b>: The forward and the backward pass of the backpropagation algorithm for a vanilla RNN to efficiently compute the gradients.
 - <b>AdaGrad</b> updating my RNN's parameters.
 - <b>Synthesizing</b> text from my RNN: Given a learnt set of parameters for the RNN, a default initial hidden state h0 and an initial input vector, x0, from which to bootstrap from then I have written a function that generates a sequence of text.
+
+# Result
+
+![](https://github.com/alexanderbea/Synthesize-English-text-using-Harry-Potter-book-and-RNN/blob/main/Images/Figure%201.PNG)
